@@ -8,7 +8,8 @@ This repository hosts the Green Destination HR Analytics dashboard created using
 
 ## Screenshots
 
-![Dashboard Overview](Screenshot (26).png)
+![ Overview]()
+![Dashboard Screenshot 1](https://github.com/akashpatil108/movies-recommendation-system/blob/962f7d4bc6045620a6c33c214194362ebc7d73f0/Screenshot (26).png)
 
 ![Dashboard Drill-down](Screenshot (25).png)
 
